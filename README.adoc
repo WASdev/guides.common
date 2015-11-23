@@ -1,3 +1,5 @@
 = Common guide elements for using Liberty and WDT
 
-Common elements for using Liberty and WDT for application development
+Common elements for using Liberty and WDT for application development (separately or together)
+
+The documents in this repository will be linked to from other resources, to avoid duplication.
