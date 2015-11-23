@@ -1,0 +1,14 @@
+
+=== Cloning a Git repo from Github with Eclipse and WDT
+
+If you want to use Eclipse to manage your git repository, Eclipse has Git tools integrated 
+into the IDE that can help you do that: 
+
+1. Open the Git Repositories view of the Git perspective in Eclipse: 
+* *Window > Show View > Other*
+* Type `git` in the filter box, and select *Git Repositories*
+2. Copy the Github repo URL from the field under *HTTPS clone URL* on the right-hand-side of the Github 
+repository's webpage and copy the https github URL.
+3. In the Git Repositories view in Eclipse, click the hyperlink *Clone a Git repository*.
+4. The Git repo location details should be filled in automatically from the clipboard.  Select *Next > Next > Finish*.
+5. The repo should appear in the Git Repositories view.
