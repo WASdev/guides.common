@@ -1,12 +1,9 @@
 == Eclipse / WDT
 
-The WebSphere Developer Tools (WDT) for Eclipse can be used to control the server (start/stop/dump/etc.), 
-but more importantly, WDT also provides:
+The WebSphere Developer Tools (WDT) for Eclipse can be used to control the server (start/stop/dump/etc.), but more importantly, WDT also provides:
 
-* *Automatic incremental publish of applications* so that you can write and test your changes 
-without restarting the server.
-* <b>Content-assist for server configuration</b>. Liberty's server configuration is minimal, 
-but the tools can help you find what you need and identify finger-checks, etc.
+* *Automatic incremental publish of applications* so that you can write and test your changes without restarting the server.
+* *Content-assist for server configuration*. Liberty's server configuration is minimal, but the tools can help you find what you need and identify finger-checks, etc.
 * Integration with Eclipse Debugger to step through your application code.
 
 When running with WDT, a "loose configuration" war file will be generated and placed in the apps
