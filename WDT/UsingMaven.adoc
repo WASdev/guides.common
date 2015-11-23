@@ -1,0 +1,17 @@
+==== Importing projects as Maven projects
+
+The integration between maven and Eclipse is pretty smooth. If you did not use Eclipse/WDT to clone the Git 
+repository, start at Step 3 in these instructions, but navigate to the cloned repository directory rather 
+than pasting its name in Step 4.
+
+1. In the Git Repositories view, expand the repo to see the `Working Directory` folder.
+2. Right-click the `Working Directory` folder, then click *Copy path to Clipboard*.
+3. Click *File > Import > Maven > Existing Maven Projects*.
+4. In the `Root Directory` field, paste in the repository directory.
+5. Select *Browse...* button to make it search for the `pom.xml` files in the repository, then click *Finish*.
+
+Your projects should now exist in eclipse!
+
+NOTE: When importing the existing Maven project into Eclipse, Eclipse will (by default) "helpfully" add this project 
+to an (extraneous) EAR file. To turn this off, go to *Preferences > Java EE > Project*, and *uncheck* 
+`Add project to an EAR` before you import the project. If you forgot to do this, just delete the EAR project; no harm done.
