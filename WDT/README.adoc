@@ -1,5 +1,5 @@
 . link:UsingWDT.adoc[Using Eclipse and WebSphere Developer Tools]
 .. link:CreateLibertyRuntime.adoc[Create a Liberty runtime in WDT]
 .. link:UsingGit.adoc[Using Git in Eclipse]
-.. link:UsingMaven.adoc[Building with Maven in Eclipse]
-.. link:UsingGradle.adoc[Building with Gradle in Eclipse]
+.. link:UsingMaven.adoc[Importing Maven projects in Eclipse]
+.. link:UsingGradle.adoc[Importing Gradle projects in Eclipse]
