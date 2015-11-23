@@ -1,0 +1,3 @@
+= Common guide elements for using Liberty and WDT
+
+Common elements for using Liberty and WDT for application development
