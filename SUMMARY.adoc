@@ -1,3 +1,7 @@
 = Summary
 
-. link:WDT/README.adoc[Chapter 1]
+. link:WDT/README.adoc[Using Eclipse and WebSphere Developer Tools]
+.. link:WDT/CreateLibertyRuntime.adoc[Create a Liberty runtime in WDT]
+.. link:WDT/UsingGit.adoc[Using Git in Eclipse]
+.. link:WDT/UsingMaven.adoc[Building with Maven in Eclipse]
+.. link:WDT/UsingGradle.adoc[Building with Gradle in Eclipse]
